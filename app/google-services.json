@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268342565612",
+    "project_id": "last-hope-ede96",
+    "storage_bucket": "last-hope-ede96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268342565612:android:35b13008848a7ed305a3c9",
+        "android_client_info": {
+          "package_name": "com.last.hope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268342565612-ghl8657kh543ka89047a8j6e8upu6so8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsLE1LKjITvjC6WRwYQQZuAD2LV-PLqaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268342565612-ghl8657kh543ka89047a8j6e8upu6so8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
